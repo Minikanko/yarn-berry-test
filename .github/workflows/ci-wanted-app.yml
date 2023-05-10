@@ -6,6 +6,7 @@ on:
       - 6-deploy
     paths:
       - 'apps/wanted/**'
+      - 'apps/admin/**'
 
 jobs:
   test:
